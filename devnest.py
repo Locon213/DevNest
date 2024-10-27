@@ -313,7 +313,7 @@ class DevNest(QMainWindow):
             self.log_message("Репозиторий Git не инициализирован.")
 
     def github_auth(self):
-        client_id = "Ov23lif7mJuFTnC7hduO"
+        client_id = "NO PUBLIC"
         scope = "repo"
         auth_url = f"https://github.com/login/oauth/authorize?client_id={client_id}&scope={scope}"
         try:
