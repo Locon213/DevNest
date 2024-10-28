@@ -10,7 +10,7 @@ DevNest is distributed as a single `.exe` file, simplifying installation and usa
 
 ### Installation Steps
 
-1. **Download**: Go to [this Google Drive link](https://drive.google.com/file/d/13cqJrU0i22FueTN1olM59k9H8j53_5wh/view?usp=sharing) and download the `DevNest.exe` file.
+1. **Download**: Go to [this Google Drive link](https://drive.google.com/file/d/13cqJrU0i22FueTN1olM59k9H8j53_5wh/view?usp=sharing) and download the `DevNest.exe` file.(Not relevant, go to releases on Gihub)
    
 2. **Placement**: Once downloaded, move `DevNest.exe` to a folder of your choice on your computer. This location will serve as the installation directory for DevNest, where all data and settings will be stored.
 
